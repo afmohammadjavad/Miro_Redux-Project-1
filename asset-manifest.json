@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Miro_Redux-Project-1/static/css/main.e8d43d62.css",
+    "main.js": "/Miro_Redux-Project-1/static/js/main.07c6fb94.js",
+    "static/js/787.b95d21ec.chunk.js": "/Miro_Redux-Project-1/static/js/787.b95d21ec.chunk.js",
+    "index.html": "/Miro_Redux-Project-1/index.html",
+    "main.e8d43d62.css.map": "/Miro_Redux-Project-1/static/css/main.e8d43d62.css.map",
+    "main.07c6fb94.js.map": "/Miro_Redux-Project-1/static/js/main.07c6fb94.js.map",
+    "787.b95d21ec.chunk.js.map": "/Miro_Redux-Project-1/static/js/787.b95d21ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d43d62.css",
+    "static/js/main.07c6fb94.js"
+  ]
+}
